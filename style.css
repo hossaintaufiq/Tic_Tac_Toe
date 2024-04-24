@@ -48,3 +48,23 @@ body{
     border: none;
 
 }
+#new-btn{
+    padding: 1rem;
+    font-size: 1rem;
+    background-color: #191913;
+    color: #fff;
+    border-radius: 1rem;
+    border: none;
+
+}
+#msg{
+    color: #ffffc7;
+    font-size: 5vmin;
+}
+.msgContainer{
+    /* margin-bottom: ; */
+    height: 24vmin;
+}
+.hide{
+    display: none;
+}
